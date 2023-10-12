@@ -80,7 +80,6 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': BASE_DIR / 'hom.postgresql',
     }
-
 }
 
 
